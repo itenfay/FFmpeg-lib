@@ -17,8 +17,8 @@
 *.pch
 
 # Libraries
-*.lib
-*.a
+#*.lib
+#*.a
 *.la
 *.lo
 
@@ -26,7 +26,7 @@
 *.dll
 *.so
 *.so.*
-*.dylib
+#*.dylib
 
 # Executables
 *.exe
